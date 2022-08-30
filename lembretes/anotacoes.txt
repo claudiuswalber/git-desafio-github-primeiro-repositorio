@@ -1,0 +1,5 @@
+No gitHub clicar no botão code para copiar o repositorio a ser clonado
+Criar pasta local para clonar o repositório
+Na pasta local, com botão direito do mouse iniciar o git bash
+no git bash escrever git clone e o nome do repositório copiado precionar enter
+git status para verificar se tudo está ok 
