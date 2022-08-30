@@ -1,5 +1,24 @@
 No gitHub clicar no botão code para copiar o repositorio a ser clonado
 Criar pasta local para clonar o repositório
 Na pasta local, com botão direito do mouse iniciar o git bash
-no git bash escrever git clone e o nome do repositório copiado precionar enter
-git status para verificar se tudo está ok 
+no git bash escrever " git clone e o nome do repositório copiado " precionar enter
+" git status " para verificar se tudo está ok 
+caso se modifique algo o arquivo modificado fica vermelho no repositório local
+necessário dar o comando " git add . "
+
+commit local 
+
+" git commit -m "comenttario que seja relevante e claro "
+
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+Para adicionar no controle de versão remoto....
+
+" git push origin main " 
